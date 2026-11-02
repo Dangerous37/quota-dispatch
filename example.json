@@ -1,0 +1,34 @@
+{
+  "quotas": {
+    "a": 1,
+    "b": 2
+  },
+  "window": 5,
+  "jobs": [
+    {
+      "id": "j0",
+      "tenant": "a",
+      "arrival": 0
+    },
+    {
+      "id": "j1",
+      "tenant": "a",
+      "arrival": 0
+    },
+    {
+      "id": "j2",
+      "tenant": "b",
+      "arrival": 0
+    },
+    {
+      "id": "j3",
+      "tenant": "b",
+      "arrival": 0
+    },
+    {
+      "id": "j4",
+      "tenant": "b",
+      "arrival": 0
+    }
+  ]
+}
